@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 Grocery Barcode Scanner
 
 A web application that helps you scan barcodes while grocery shopping, track prices, and calculate estimated totals including tax.
@@ -62,7 +63,7 @@ npm run dev
 ## Browser Compatibility
 
 Works best on modern browsers with camera access support:
-- Chrome/Edge (recommended)
+- Chrome/Edge 
 - Firefox
 - Safari (on iOS/macOS)
 - Mobile browsers with camera support
@@ -70,3 +71,7 @@ Works best on modern browsers with camera access support:
 ## License
 
 MIT
+=======
+# ShopCop
+App that allows users to use there phone, tablet, or laptop(not as effective) cameras to scan barcodes on the items within multiple stores dependent on your location(or accessible manually). Main purpose is to keep track of your items within a store as you go to keep track of all the costs while shopping in person.
+>>>>>>> 6e83660a98a9816c949f0f6a82cb69726c245a5c
